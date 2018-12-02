@@ -1,0 +1,13 @@
+	CORES
+
+VERDE -> output = 248  
+
+VERMELHO -> output = 247
+
+AZUL -> output = 252
+
+AMARELO -> output = 250
+
+MARROM -> output = 254
+
+LARANJA -> output = 246
